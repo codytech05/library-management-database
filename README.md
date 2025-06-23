@@ -23,7 +23,7 @@ Design a normalized relational database schema including primary/foreign keys an
 ## 🧪 Getting Started
 1. Clone this repository:
    ```bash
-   git clone https://github.com/codytech_05/library-management-database.git
+   git clone https://github.com/codytech05/library-management-database.git
    
 2. Create the database and tables:
    mysql -u your_user -p < schema.sql
